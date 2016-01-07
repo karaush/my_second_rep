@@ -1,4 +1,4 @@
 <?php
 
-print "Success!";
+print "Success! All OK";
 ?>
